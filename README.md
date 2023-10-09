@@ -8,6 +8,7 @@ MIT
 
 # Run
 seed by running: npm run seed
+
 run it using nodemon by running: npm run watch
 
 # Video
