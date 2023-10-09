@@ -1,0 +1,23 @@
+{
+  "name": "e-commerce-back-end",
+  "version": "1.0.0",
+  "description": "take a working Express.js API and configure it to use Sequelize to interact with a MySQL database.",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyushManiSharma/E-commerce-Back-End.git"
+  },
+  "author": "Ayush Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AyushManiSharma/E-commerce-Back-End/issues"
+  },
+  "homepage": "https://github.com/AyushManiSharma/E-commerce-Back-End#readme",
+  "dependencies": {
+    "sequelize": "^6.33.0"
+  }
+}
